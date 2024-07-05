@@ -1,4 +1,3 @@
 tasks:
   - name: Setup
-    command: |
-      sudo ./dependencies.sh
+    command: ./dependencies.sh
