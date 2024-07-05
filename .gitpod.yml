@@ -1,0 +1,6 @@
+tasks:
+  - name: Setup
+    command: |
+      sudo apt update
+      sudo apt install lua5.3
+      # Additional setup commands as needed
