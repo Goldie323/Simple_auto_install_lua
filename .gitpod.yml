@@ -1,5 +1,4 @@
 tasks:
   - name: Setup
     command: |
-    sudo dependencies.sh
-      
+      sudo dependencies.sh
